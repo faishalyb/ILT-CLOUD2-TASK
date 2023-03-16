@@ -1,0 +1,31 @@
+{
+  "name": "ilt-cloud-demo",
+  "version": "1.0.0",
+  "description": "this asssignment to completed the task of ILT CLOUD 2 Bangkit 2023",
+  "main": "contacts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dicodingacademy/ilt-cloud-2-bangkit-demo.git"
+  },
+  "keywords": [
+    "[belajar",
+    "hapi]"
+  ],
+  "author": "faishalyb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dicodingacademy/ilt-cloud-2-bangkit-demo/issues"
+  },
+  "homepage": "https://github.com/dicodingacademy/ilt-cloud-2-bangkit-demo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^20.3.0"
+  }
+}
